@@ -33,5 +33,5 @@ In this project, I started by designing the UI using HTML and CSS. The main elem
 
 ## Live Demo
 
-You can experience the interactive rating component by trying the [Live Demo](#) here.
+You can experience the interactive rating component by trying the [Live Demo](https://aachal01.github.io/interactive-rating-component/) here.
 
